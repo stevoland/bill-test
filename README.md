@@ -26,9 +26,9 @@ npm run test
 
 ## Todo
 
-[ ] Improve styling
-[ ] Figure out Sinon with Webpack and improve bill action tests
-[ ] Test clientMiddleware
+- [ ] Improve styling
+- [ ] Figure out Sinon with Webpack and improve bill action tests
+- [ ] Test clientMiddleware
 
 ## Thanks
 
